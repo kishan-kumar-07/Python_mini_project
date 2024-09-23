@@ -1,4 +1,4 @@
-# Hey, my name is Kishan kuamr Ihave created a tic tac toe game as my python mini project.
+# Hey, my name is Kishan Kuamr Ihave created a tic tac toe game as my python mini project.
 # play and enjoy it.
 
 
