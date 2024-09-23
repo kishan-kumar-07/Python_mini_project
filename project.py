@@ -1,3 +1,8 @@
+# Hey, my name is Kishan kuamr Ihave created a tic tac toe game as my python mini project.
+# play and enjoy it.
+
+
+
 instructions ="""
 The GAME BOARD:-
  1 | 2 | 3 
